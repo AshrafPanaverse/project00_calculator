@@ -5,4 +5,4 @@ Inquirer
 Chalk
 
 How it works:
-just open cmd and run  "npx ash-calculator"
+just open cmd and run  "npx calculator-ash"
